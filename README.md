@@ -10,3 +10,8 @@ This is the common code library created by GUI Cocoa, LLC. and is used in severa
 - NSManagedObject subclass with lots of useful methods
 - Set of common UITableViewCell subclasses
 - Set of useful preprocessor macros
+
+# Dependencies
+
+- GCCoreDataManager requires CoreData Framework
+- GCLocationManager requires CoreLocation Framework
